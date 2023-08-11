@@ -34,8 +34,8 @@
   {
    "chainId": 6666,
    "address": "0x52b0F8ef2dE8717fAA6F4fDaaFe6CB84fAD547D6",
-   "name": "Prosperite Future 2030",
-   "symbol": "PRF-26",
+   "name": "Wrapped CULT",
+   "symbol": "wCULT",
    "decimals": 18,
    "logoURI": "https://raw.githubusercontent.com/crawazaky/Uniswap-UI-fork/master/asset_PRG-svg.svg"
  }
